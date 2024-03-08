@@ -141,5 +141,3 @@ CREATE MATERIALIZED VIEW weekly_likes AS(
 
 SELECT * FROM weekly_likes;
 
-
-CREATE TABLE accounts ()
